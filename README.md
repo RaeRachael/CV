@@ -1,6 +1,7 @@
 ## Rachael Ewins
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
+Someone who wants to find was to make a meaningful contribution to society, but lacking the ability to clearly communicate using written or spoken languages most of the time, I have begun to look for ways to utilise programming skills to be productive. Having only really had experience with Fortran, I am currently working on learning to code in other languages (namely Ruby) and to develop the skills to be confident in learning and using others when the time comes. 
+
 
 ## Skills
 
@@ -23,18 +24,22 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (May 2020 to July 2020)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### University of Oxford (2012 to 2016)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Physics
+- 2:1
+
+#### Woking 6th Form College (2010 to 2012)
+
+- A2: Physics, Maths, Further Maths, Biology
+- 3 * A*, A
 
 #### Any other qualifications
 
@@ -52,4 +57,4 @@ That in some arguable way make you a better software developer or well-rounded p
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+Making art out of string, rope and random objects.
