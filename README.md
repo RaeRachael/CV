@@ -1,6 +1,6 @@
 ## Rachael Ewins
 
-Someone who wants to find was to make a meaningful contribution to society, but lacking the ability to clearly communicate using written or spoken languages most of the time, I have begun to look for ways to utilise programming skills to be productive. Having only really had experience with Fortran, I am currently working on learning to code in other languages (namely Ruby and JavaScript) and to develop the skills to be confident in learning and using others when the time comes. 
+Someone who wants to find was to make a meaningful contribution to society, I have begun to look for ways to utilise programming skills to be productive moving away from coding for oneself on local systems, to coding for and with others in a more interactive way. Having only really had experience with Fortran, I am currently working on learning to code in other languages (namely Ruby and JavaScript) and to develop the skills to be confident in learning and using others when the time comes. 
 
 
 ## Skills
@@ -23,15 +23,17 @@ I think that the [exploration game](https://github.com/RaeRachael/exploration_ga
 
 #### Makers Academy (May 2020 to July 2020)
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Key Concepts: OOP, TDD, MVC, SRP
+- Team Work Skills: Agile/XP
+- Languages: Ruby, JavaScript
+- Frameworks: Rails, Sinarta, React, Express
+- Testing; RSpec, Capybara, Jasmine, Jest
 
 #### University of Oxford (2012 to 2016)
 
 - Physics
 - 2:1
+- A Masters project, with code written in Fortran utilising a SOR (Sucessive Over-Relaxation) technique to find a stable solution. 
 
 #### Woking 6th Form College (2010 to 2012)
 
@@ -40,7 +42,7 @@ I think that the [exploration game](https://github.com/RaeRachael/exploration_ga
 
 ## Experience
 
-Started a PhD in Oceanography in October 2016 at the unviersity of Hamburg which I had to stop for mental health reasons  
+Started a PhD in Oceanography in October 2016 at the unviersity of Hamburg. In which I made localised models for internal gravity waves and background flows, written in fortran, with graphically displays of the resulting data created via MatLab, unfortunetly I had to stop the PhD mental health reasons  
 
 ## Hobbies
 
