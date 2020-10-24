@@ -1,6 +1,6 @@
 ## Rachael Ewins
 
-Someone who wants to find was to make a meaningful contribution to society, I have begun to look for ways to utilise programming skills to be productive moving away from coding for oneself on local systems, to coding for and with others in a more interactive way. Having only really had experience with Fortran, I am currently working on learning to code in other languages (namely Ruby and JavaScript) and to develop the skills to be confident in learning and using others when the time comes. 
+Someone who wants to find was to make a meaningful contribution to society, I have begun to look for ways to utilise programming skills to be productive moving away from coding for oneself on local systems, to coding for and with others in a more interactive way. Having only really had experience with Fortran, I am currently working on learning to code in other languages (namely Ruby, JavaScript, Typescript and C#) and to develop the skills to be confident in learning and using new laguages/technologies when the time comes. 
 
 
 ## Skills
@@ -22,7 +22,7 @@ During the [final project](https://github.com/RaeRachael/invimcible_front_end) o
 
 #### A desire to have fun while writing as good as code as I can
 
-I think that the [exploration game](https://github.com/RaeRachael/exploration_game) that I starting writing in Ruby at the start of the Makers code shows not only my development in writing code, testing and design, but also a willingness to have some fun and look into new challenges, requiring new skills and knowledge to produce. Inparticular how to make it have a realtime response to individual key presses and how one can go about testing this functionality. 
+I think that the [exploration game](https://github.com/RaeRachael/exploration_game) that I starting writing in Ruby at the start of the Makers code shows not only my development in writing code, testing and design, but also a willingness to have some fun and look into new challenges, requiring new skills and knowledge to produce. Inparticular how to make it have a realtime response to individual key presses and how one can go about testing this functionality. In addition I have now made a [JS version](https://github.com/RaeRachael/JS_exploration_game) which is playable at [this site](http://exploration-game.surge.sh/)
 
 ## Education
 
