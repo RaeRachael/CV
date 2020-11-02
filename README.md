@@ -1,5 +1,7 @@
 ## Rachael Ewins
 
+A more standard CV version is included in this repository [here](https://github.com/RaeRachael/CV/blob/master/RachaelEwinsCV-2020.pdf), with the linked projects visible on the github landing page, or as a link in the word document version.
+
 Someone who wants to find ways to make a meaningful contribution to society, I have begun to look for ways to utilise programming skills to be productive moving away from coding for oneself on local systems, to coding for and with others in a more interactive way. Having only really had experience with Fortran, I am currently working on learning to code in other languages (namely Ruby, JavaScript, Typescript and C#) and to develop the skills to be confident in learning and using new laguages/technologies when the time comes.
 
 
