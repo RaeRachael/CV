@@ -1,6 +1,6 @@
 ## Rachael Ewins
 
-Someone who wants to find was to make a meaningful contribution to society, I have begun to look for ways to utilise programming skills to be productive moving away from coding for oneself on local systems, to coding for and with others in a more interactive way. Having only really had experience with Fortran, I am currently working on learning to code in other languages (namely Ruby, JavaScript, Typescript and C#) and to develop the skills to be confident in learning and using new laguages/technologies when the time comes.
+Someone who wants to find ways to make a meaningful contribution to society, I have begun to look for ways to utilise programming skills to be productive moving away from coding for oneself on local systems, to coding for and with others in a more interactive way. Having only really had experience with Fortran, I am currently working on learning to code in other languages (namely Ruby, JavaScript, Typescript and C#) and to develop the skills to be confident in learning and using new laguages/technologies when the time comes.
 
 
 ## Skills
